@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[! [MasterHead](https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://AmanP1712.io)
 <h1 align="center">Hi 👋, I'm Aman Pathan</h1>
 <h3 align="center">A passionate Web developer</h3>
 <img aling="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanp1712&label=Profile%20views&color=0e75b6&style=flat" alt="amanp1712" /> </p>
 
 - 🌱 I’m currently learning **DSA**
 
